@@ -1,0 +1,60 @@
+ .li-margin li {
+            margin-right: 0px !important;
+        }
+
+        .jiathis_style_24x24 {
+            display: block;
+            float: right;
+        }
+
+            .jiathis_style_24x24 .jtico {
+                height: 20px !important;
+                line-height: 20px !important;
+                background: url(/assets/img/share.png) no-repeat left !important;
+            }
+
+            .jiathis_style_24x24 .jiathis_txt {
+                font-size: 15px !important;
+                color: #959191;
+                font-weight: bold;
+            }
+
+            .jiathis_style_24x24 .jtico_weixin {
+                margin-left: 4px !important;
+                background-position: 0px 0px !important;
+                padding-left: 20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_qzone {
+                margin-left: 4px !important;
+                background-position: -20px 0px !important;
+                padding-left: 20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_tsina {
+                margin-left: 4px !important;
+                background-position: -80px 0px !important;
+                padding-left: 20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_tqq {
+                margin-left: 4px !important;
+                background-position: -100px 0px !important;
+                padding-left: 20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_weixin:hover {
+                background-position: 0px -20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_qzone:hover {
+                background-position: -20px -20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_tsina:hover {
+                background-position: -80px -20px !important;
+            }
+
+            .jiathis_style_24x24 .jtico_tqq:hover {
+                background-position: -100px -20px !important;
+            }

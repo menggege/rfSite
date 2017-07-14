@@ -1,0 +1,488 @@
+a:focus, 
+a:hover, 
+a:active {
+	color: #b81c2b;
+}
+
+.color-green {
+	color: #b81c2b;
+}
+
+a.read-more:hover { 
+	color:#b81c2b; 
+}
+
+.linked:hover {
+	color:#b81c2b;
+}
+
+/*Slider
+------------------------------------*/
+.da-slide h2 i {
+	background:#b81c2b;
+	opacity: .7;
+}
+
+/*Purchase
+------------------------------------*/
+.purchase a.btn-buy {
+	background:#b81c2b;
+		
+}
+.purchase a.btn-buy:hover {
+	background:#676767;
+} 
+
+/*Buttons
+------------------------------------*/
+.btn-u {
+	background: #b81c2b;
+}
+
+.btn-u:hover {
+	background: #676767;
+}
+
+/*Service
+------------------------------------*/
+.service i {
+	color:#b81c2b;	
+}
+
+/*Welcome Block*/
+.servive-block .span4 h4 a:hover {
+	color:#b81c2b;
+}
+
+.servive-block .span4:hover h4,
+.servive-block .span4:hover i {
+	color:#b81c2b;
+}
+.servive-block-in .span4 i {
+	color:#b81c2b;
+}
+
+/*Service Blocks*/
+.service-alternative .service:hover { 
+	background:#b81c2b;
+} 
+
+/*Thumbnail (Recent Work)
+------------------------------------*/
+.thumbnail-style h3 a:hover {
+	color:#b81c2b;
+}
+
+.thumbnail-style a.btn-more {
+	background:#b81c2b;
+}
+.thumbnail-style a.btn-more:hover {
+	box-shadow:0 0 0 6px rgba(200,30,50,.4);
+}
+
+/*Carousel (Recent Work)*/
+.recent-work a:hover span {
+	border-bottom:solid 2px #b81c2b;
+}
+
+.bx-wrapper .bx-prev {
+	background-image: url(../../plugins/bxslider/images/controls.png);
+}
+.bx-wrapper .bx-next {
+	background-image: url(../../plugins/bxslider/images/controls.png);
+}
+
+/*Typography
+------------------------------------*/
+/*Heading*/
+.headline h3, 
+.headline h4 {
+	border-bottom:2px solid #b81c2b;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+/*Blockquote*/
+blockquote:hover {
+	border-left-color:#b81c2b; 
+}
+
+.hero {
+	border-left-color: #b81c2b;
+}
+
+/*Carousel
+------------------------------------*/
+.carousel-arrow a.carousel-control:hover {
+	color: #b81c2b;
+}
+
+/*Footer
+------------------------------------*/
+.footer a,
+.copyright a,
+.footer a:hover,
+.copyright a:hover {
+	color: #b81c2b;
+}
+
+/*Footer Blog*/
+.footer .dl-horizontal a:hover {
+	color:#b81c2b !important;
+}
+
+
+/*Blog Posts
+------------------------------------*/
+.posts .dl-horizontal:hover { 
+	border-right:solid 2px #b81c2b;
+}
+.posts .dl-horizontal a:hover { 
+	color:#b81c2b; 
+}
+.posts .dl-horizontal:hover dt img,
+.posts .dl-horizontal:hover dd a { 
+	color:#b81c2b;
+	border-color:#b81c2b !important;
+}
+
+/*Tabs
+------------------------------------*/
+.nav-tabs li.active a, 
+.nav-tabs li.active a:hover,
+.nav-tabs > .active > a, 
+.nav-tabs > .active > a:hover, 
+.nav-tabs > .active > a:focus { 
+	background:#b81c2b; 
+}
+.nav-tabs > li > a:hover { 
+	background:#b81c2b; 
+}
+.tab-content { 
+	border-top:solid 2px #b81c2b; 
+}
+
+/*Accardion
+------------------------------------*/
+.acc-home a.active,
+.acc-home a.accordion-toggle:hover { 
+	color:#b81c2b; 
+}
+.acc-home .collapse.in { 
+	border-bottom:solid 1px #b81c2b; 
+}
+
+/*Testimonials
+------------------------------------*/
+.testimonal-arrow a {
+	color:#b81c2b;
+}
+.testimonal-arrow a:hover {
+	background:#b81c2b !important;
+}
+
+/*Breadcrumb
+------------------------------------*/
+.breadcrumb li.active,
+.breadcrumb li a:hover {
+	color:#b81c2b;
+}
+
+/*About Page
+------------------------------------*/
+.team .thumbnail-style:hover h3 a {
+	color:#b81c2b !important;
+}
+
+/*Social Icons*/
+.team ul li i:hover {
+	background:#b81c2b;
+}	
+
+/*Pricing Page
+------------------------------------*/
+/*Pricing Head*/
+.pricing:hover h4 {
+	color:#55c931;
+}
+
+.pricing-head h3 {
+	background:#55c931;
+	text-shadow:0 1px 0 #32a20f;
+	border-bottom:solid 1px #41b91c;
+}
+.pricing-head h4 {
+	color:#999;
+	background:#fbfef2;
+	border-bottom:solid 1px #f5f9e7;
+}
+	
+/*Pricing Content*/
+.pricing-content li {
+	border-bottom:solid 1px #f5f9e7;
+}
+.pricing-content li i {
+	color:#b81c2b;
+}
+
+/*Pricing Footer*/
+.pricing-footer a,
+.pricing-footer button {
+	background:#b81c2b;
+	text-shadow:0 1px 0 #38b312;
+	border-bottom:solid 2px #41b91c;
+}
+.pricing-footer a:hover,
+.pricing-footer button:hover {
+	background:#40ba1a;
+}
+
+/*Priceing Active*/
+.price-active h4 {
+	color:#55c931;
+}
+
+.no-space-pricing .price-active .pricing-head h4,
+.no-space-pricing .pricing:hover .pricing-head h4 {
+	color:#55c931;
+}
+
+/*Right Sidebar
+------------------------------------*/
+/*Right Sidebar*/
+.who li i,
+.who li:hover i, 
+.who li:hover a { 
+	color:#b81c2b; 
+}
+
+/*Privacy Page
+------------------------------------*/
+.privacy a:hover {
+	color:#b81c2b; 
+}
+
+/*Portfolio Page
+------------------------------------*/
+.sort li a:hover { 
+	color: #b81c2b; 
+	border-bottom: 1px dotted #b81c2b; 
+}
+.sort li a.selected { 
+	color: #b81c2b; 
+	border-bottom: 1px solid #b81c2b;
+}
+.view a.info, .view a.info:hover {
+	background: #b81c2b;
+}
+
+/*Blog Page
+------------------------------------*/
+.blog h3 {
+	color:#b81c2b;
+}
+.blog li a:hover {
+	color:#b81c2b;
+}
+
+/*Blog Tags*/
+ul.blog-tags a:hover,
+ul.blog-tags a:hover i {
+	color:#b81c2b;
+}
+
+/*Blog Ads*/
+.blog-ads li img:hover {
+	box-shadow:0 0 0 4px #b81c2b;
+}
+
+/*Blog Latest Tweets*/
+.blog-twitter p a {
+	color:#b81c2b;
+}
+
+/*Blog Item Page
+------------------------------------*/
+.blog-item h4.media-heading span a {
+	color:#b81c2b;
+}
+
+/*Coming Soon Page
+------------------------------------*/
+.coming-soon-border {
+	border-top: solid 3px #b81c2b;
+}
+
+/*Search Page
+------------------------------------*/
+.booking-blocks p a {
+	color: #b81c2b;
+}
+
+/*Icons Page
+------------------------------------*/
+.icon-page li:hover { 
+	color:#b81c2b;
+}
+
+/*Glyphicons*/
+.glyphicons-demo a:hover {
+	color: #b81c2b;
+	text-decoration: none;
+}
+.f-left li{
+    float: left;
+    margin-right: 100px;
+    width: 260px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;    
+    line-height: 2;
+}
+@media screen and (max-width: 1200px) {
+    .f-left li{
+	    float: left;
+	    margin-right: 20px;	    
+	    width: 270px;
+	}
+}
+
+.mfont{
+	padding-left: 40px;
+}
+.mfont-sub{
+	color: #b81c2b;
+	font-size: 16px;
+}
+.txt-context{
+	text-indent:40px;
+}
+.red-color{
+	color: #b81c2b;
+}
+.footer .headline h3,.menus .headline h3{
+	padding-left: 0em;
+	padding-right: 0em;
+}
+.da-slide .s2-h2{
+	font-size: 60px;
+
+}    
+.da-slide .s2-h2 i{
+	font-size: 70px;
+    font-style: normal;
+    color: #b81c2b;
+    opacity: 1; 
+    font-weight: bold;
+    background: transparent;
+}
+
+.code-zone{
+	margin: 20px 0 0 0;
+}
+.code-zone li{
+	float: left;
+    margin-left: 20px;	
+}
+.code-zone li div{
+	text-align: center;
+	color: #dadada;
+    padding-top: 5px;
+}
+.team img{
+	margin-bottom:20px; 
+	width: 100%;
+}
+.client-img{
+	background: url(../../img/clients/clients.png);
+	height: 110px;
+	width: 130px;
+	transition: all 0.4s ease-in-out;
+}
+.slides .client-img:hover{
+	background-position-y:  -5px;
+}
+.client-img.c1{	
+	background-position: 0px -130px;
+}
+.client-img.c2{
+	background-position: -130px -130px;
+}
+.client-img.c3{
+	background-position: -260px -130px;
+}
+.client-img.c4{
+	background-position: -390px -130px;
+}
+.client-img.c5{
+	background-position: -520px -130px;
+}
+.client-img.c6{
+	background-position: -650px -130px;
+}
+.client-img.c7{
+	background-position: -780px -130px;
+}
+.client-img.c8{
+	background-position: -910px -130px;
+}
+.client-img.c9{
+	background-position: -1040px -130px;
+}
+.client-img.c10{
+	background-position: -1170px -130px;
+}
+
+
+
+.clientnew-img{
+	background: url(../../img/clients/clientsnew.png);
+	height: 100px;
+	width: 130px;
+	transition: all 0.4s ease-in-out;
+}
+.slides .clientnew-img:hover{
+	background-position-y:  -20px;
+}
+.clientnew-img.c1{	
+	background-position: -30px -20px;
+}
+.clientnew-img.c2{
+	background-position: -192px -20px;
+}
+.clientnew-img.c3{
+	background-position: -330px -20px;
+}
+.clientnew-img.c4{
+	background-position: -465px -20px;
+}
+.clientnew-img.c5{
+	background-position: -600px -20px;
+}
+.clientnew-img.c6{
+	background-position: -735px -20px;
+}
+.clientnew-img.c7{
+	background-position: -880px -20px;
+}
+.clientnew-img.c8{
+	background-position: -1015px -20px;
+}
+.clientnew-img.c9{
+	background-position: -1150px -20px;
+}
+.clientnew-img.c10{
+	background-position: -1150px -20px;
+}
+
+
+
+.footer address a{
+	color:#dadada;
+}
+.footer address a.link{
+	color:rgb(255,100,100);
+}
+.da-slide p i{
+	font-size: 22px;
+}
